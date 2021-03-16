@@ -12,14 +12,14 @@ There are 3 modes in vim editor
 
 ## Moving Cursor
 
-* h (left)
-* j (down)
-* k (up)
-* l (right)
-* G (to bottom of the file)
-* gg (to top of the file)
+* `h` (left)
+* `j` (down)
+* `k` (up)
+* `l` (right)
+* `G` (to bottom of the file)
+* `gg` (to top of the file)
 
-## commands
+## Commands
 
 it will be combination of `action` and `item`
 
@@ -34,3 +34,17 @@ it will be combination of `action` and `item`
   - line `l`
   - till end of the line `$`
   - till end of the current word `e`
+
+## Working with multiple files
+
+* `vim .` to open current directory in vim
+* Select any file it will open right there
+* `:e filename` to change file in currect tab
+* `CTRL + W` to chagne one tab to another
+* `:q` will close tab, it will close vim if single tab is open there
+* `sp` to split vertically
+* `vs` to split horizontally
+* Change tab size
+  - `Ctrl+w` `=` to make all tab occupy equal amount of space
+  - `20` `Ctrl+w` `_` set hight to 20
+  - `30` `Ctrl+w` `|` set width to 30

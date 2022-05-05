@@ -57,3 +57,5 @@ it will be combination of `action` and `item`
 * apply tab to next 4 lines `4<shift><dot>`, dot => `.`
 * move by block `}` => forward, `{` => backword
 * move back word by word: `b`
+* copy 10 lines `10yy` -> this will copy 10 lines from current cursor position
+* copy block `y}`, copy block from middle of the block `{y}` (basically `{` will move cursor to the starting of the block and then `y}` will copy the whole block)

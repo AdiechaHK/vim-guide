@@ -48,3 +48,9 @@ it will be combination of `action` and `item`
   - `Ctrl+w` `=` to make all tab occupy equal amount of space
   - `20` `Ctrl+w` `_` set hight to 20
   - `30` `Ctrl+w` `|` set width to 30
+
+
+## Special cases
+
+* go to line number `:<line_number><enter>` example `:34⏎`
+* remove paragraph `d}`

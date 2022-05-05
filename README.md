@@ -54,3 +54,5 @@ it will be combination of `action` and `item`
 
 * go to line number `:<line_number><enter>` example `:34⏎`
 * remove paragraph `d}`
+* apply tab to next 4 lines `4<shift><dot>`, dot => `.`
+* move by block `}` => forward, `{` => backword

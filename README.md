@@ -56,3 +56,4 @@ it will be combination of `action` and `item`
 * remove paragraph `d}`
 * apply tab to next 4 lines `4<shift><dot>`, dot => `.`
 * move by block `}` => forward, `{` => backword
+* move back word by word: `b`

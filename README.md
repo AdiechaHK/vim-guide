@@ -60,3 +60,9 @@ it will be combination of `action` and `item`
 * copy 10 lines `10yy` -> this will copy 10 lines from current cursor position
 * copy block `y}`, copy block from middle of the block `{y}` (basically `{` will move cursor to the starting of the block and then `y}` will copy the whole block)
 * Use terminal inside vim `:term`
+* comment multiple lines
+  - `Ctrl+v` - visual mode
+  - `<number>j` - to select n number of lines 
+  - `Shift+i` - move to insert mode
+  - `#` - to add hash (`#`) for comment
+  - `Esc+Esc` to leave out

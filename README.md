@@ -66,3 +66,7 @@ it will be combination of `action` and `item`
   - `Shift+i` - move to insert mode
   - `#` - to add hash (`#`) for comment
   - `Esc+Esc` to leave out
+* Multiline indentation
+  - `Ctrl+v` - visual mode
+  - `5j` - select next 5 lines
+  - `>` for add indentation, `<` for remove indentation (de-indent)

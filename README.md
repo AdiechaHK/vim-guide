@@ -65,6 +65,7 @@ it will be combination of `action` and `item`
   - `<number>j` - to select n number of lines 
   - `Shift+i` - move to insert mode
   - `#` - to add hash (`#`) for comment
+  - `d` or `x` to delete comment
   - `Esc+Esc` to leave out
 * Multiline indentation
   - `Ctrl+v` - visual mode
